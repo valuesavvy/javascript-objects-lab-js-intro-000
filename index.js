@@ -9,4 +9,8 @@ function updateObjectWithKeyAndValue(obj, key, value) {
 }
 
 
-meals.breakfast = 'cereal'
+const recipe = { milk: ' cups' }
+ 
+updateObjectWithKeyAndValue(recipe, 'chocolate', '1 cup')
+
+//meals.breakfast = 'cereal'
