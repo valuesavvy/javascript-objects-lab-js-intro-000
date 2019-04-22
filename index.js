@@ -9,3 +9,4 @@ function updateObjectWithKeyAndValue(obj, key, value) {
 }
 
 
+meals.breakfast = 'cereal'
