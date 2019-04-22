@@ -22,6 +22,7 @@ function updateObjectWithKeyAndValue(obj, key, value) {
 const recipe = { milk: 3 }
  
 updateObjectWithKeyAndValue(recipe, 'chocolate', '1 cup', 'flour', '2 cups', 'butter', '1/2 stick')
-// returns `{ eggs: 3, chocolate: '1 cup' }`
  
 recipe // { eggs: 3 }
+
+
