@@ -13,4 +13,3 @@ const recipe = { milk: ' cups' }
  
 updateObjectWithKeyAndValue(recipe, 'flour', '2 cups')
 
-//meals.breakfast = 'cereal'
