@@ -37,6 +37,8 @@ const recipe = { milk: 3 }
  
 destructivelyUpdateObjectWithKeyAndValue(recipe, 'chocolate', '1 cup', 'flour', '2 cups', 'butter', '1/2 stick')
 
+recipe 
+
 
 
 
