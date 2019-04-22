@@ -26,3 +26,21 @@ updateObjectWithKeyAndValue(recipe, 'chocolate', '1 cup', 'flour', '2 cups', 'bu
 recipe // { eggs: 3 }
 
 
+
+function destructivelyUpdateObjectWithKeyAndValue(obj, key, value) {
+  
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
