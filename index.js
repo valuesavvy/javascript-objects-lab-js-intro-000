@@ -1,7 +1,7 @@
 var recipes = {
   flour: '2 cups',
   eggs: 3,
-  butter: '1/2 stick'
+  //butter: '1/2 stick'
 }
 
 function updateObjectWithKeyAndValue(obj, key, value) {
@@ -11,6 +11,6 @@ function updateObjectWithKeyAndValue(obj, key, value) {
 
 const recipe = { milk: ' cups' }
  
-updateObjectWithKeyAndValue(recipe, 'chocolate', '1 cup')
+updateObjectWithKeyAndValue(recipe, 'flour', '2 cups')
 
 //meals.breakfast = 'cereal'
