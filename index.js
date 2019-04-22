@@ -33,7 +33,7 @@ function destructivelyUpdateObjectWithKeyAndValue(obj, key, value) {
   return obj
 }
  
-const recipe = { milk: 3 }
+const recipe = { fart: 3 };
  
 destructivelyUpdateObjectWithKeyAndValue(recipe, 'chocolate', '1 cup', 'flour', '2 cups', 'butter', '1/2 stick')
 
