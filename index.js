@@ -9,7 +9,7 @@ function updateObjectWithKeyAndValue(obj, key, value) {
 }
 
 
-const recipe = { milk: ' cups' }
+var recipe = { milk: ' cups' }
  
 updateObjectWithKeyAndValue(recipe, 'flour', '2 cups')
 
